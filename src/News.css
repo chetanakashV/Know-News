@@ -1,0 +1,35 @@
+.news {
+    border: 1px solid gray;
+    width: 90%;
+    position: relative;
+    left:5%;
+    padding: 5px;
+    margin: 15px;
+}
+.search{
+    background: rgb(0, 0, 0);
+    border: 1px solid white;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 54px;
+    width: 150px;
+    color: white
+}
+.searchinp{
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    height: 45px;
+    width: 330px;
+}
+
+.description{
+    width: 750px;
+    position: relative;
+    left: 22%;
+}
+
+.image{
+    width: 1000px;
+    height: 500px;
+}
