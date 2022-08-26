@@ -5,8 +5,9 @@
 }
 
 .news {
-    border: 1px solid gray;
+    border: 2px solid gray;
     width: 90%;
+    border-radius: 15px;
     position: relative;
     left:5%;
     padding: 5px;

@@ -35,7 +35,7 @@ function News() {
     return (
         <div className={theme ? "light" : "dark"}>
             <nobr/>
-            <h1>KNOW NEWS</h1>
+            <h1><i><u>KNOW NEWS</u></i></h1>
             <br/>
             <button className = "themetoggle" onClick={themeHanler}> {!theme? <span style ={{color: "white"}}><MdIcons.MdOutlineLightMode/></span>: <MdIcons.MdModeNight/>}</button>
            
